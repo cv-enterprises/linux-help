@@ -69,7 +69,7 @@ Commands like `sudo apt update pkg_name`, `sudo apt upgrade pkg_name`, and `sudo
 The apt finds where to get deb files from the file /etc/apt/sources/list. This is modified when upgrading offline.
 
 ### Linux based laptops
-Using the old laptops, I've been able to wipe Win7 and install a linux distro. Only a few laptops had UEFI Boot enabled, but Legacy boot is still an option for the others if you can get it to work.  
+Using the old laptops, Joey ([@jbrown3859](https://github.com/jbrown3859)) was able to wipe Win7 and install a linux distro. Only a few laptops had UEFI Boot enabled, but Legacy boot is still an option for the others if you can get it to work.  
 
 Three of the laptops have Ubuntu Desktop 18.04 installed with the Gnome desktop environment disabled. The other laptop has Arch Linux which Brian ([@lanpai](https://github.com/lanpai)) knows more about.  
 
