@@ -4,8 +4,9 @@ The Linux Help repository is split up into different directories and folders. Th
 
 ### Table of Contents
 
-| Title                                 | Description                  |
-|---------------------------------------|------------------------------|
-| [Getting Started](GettingStarted.md)  | a quick guide for beginners  |
-| [Vim](/Text%20Editors/Vim.md#vim)     | a novice guide to Vim        |
+| Title                               | Description                  |
+|-------------------------------------|------------------------------|
+| [Getting Started][getting started]  | a quick guide for beginners  |
+| [Vim](/Text%20Editors/Vim.md#vim)   | a novice guide to Vim        |
 
+[getting started][GettingStarted.md#getting-started-with-the-server]
