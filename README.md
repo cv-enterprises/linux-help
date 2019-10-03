@@ -70,7 +70,7 @@ The apt finds where to get deb files from the file /etc/apt/sources/list. This i
 
 ### Linux based laptops
 Using the old laptops, I've been able to wipe Win7 and install a linux distro. Only a few laptops had UEFI Boot enabled, but Legacy boot is still an option for the others if you can get it to work.  
-Three of the laptops have Ubuntu Desktop 18.04 installed with the Gnome desktop environment disabled. The other laptop has ArchLinux which Brian knows more about.  
+Three of the laptops have Ubuntu Desktop 18.04 installed with the Gnome desktop environment disabled. The other laptop has ArchLinux which Brian ([@lanpai](https://github.com/lanpai)) knows more about.  
 If more laptops get Ubuntu Desktop in the future, the installation DvD is in a makeshift envelope labled *Ubuntu DvD*. This only works on EFI enabled systems.
 When Ubuntu Desktop is installed, run the command `systemctl set-default multi-user.target` to disable GDM (Gnome Display Manager) on boot. This will force the system to boot into terminal.
 
