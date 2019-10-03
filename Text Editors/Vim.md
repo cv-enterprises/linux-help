@@ -13,7 +13,7 @@ The current state can be determined by the lower-left corner of the screen. If t
 These keys can be used to access the different modes
  - `<Esc>` : Returns the user back to command mode from the other modes
  - `v` : Enters visual mode from command mode
- - `i`/`<Insert> : Enters insert mode the command mode
+ - `i`/`<Insert>` : Enters insert mode the command mode
 
 #### Insert/Replace Mode
 
