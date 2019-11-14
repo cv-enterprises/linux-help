@@ -1,4 +1,4 @@
-The Linux Help repository is split up into different directories and folders. The various files can be easily navigable here.
+This repository is split up into different directories and folders. The various files can be easily navigable here.
 
 ### Table of Contents
 
