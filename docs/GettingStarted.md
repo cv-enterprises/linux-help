@@ -45,6 +45,12 @@ There are a useful commands that you will use often:
 | vimtutor       | show a bit more info on how to use vi and vim                |
 | Ctrl + C       | Exit a process                                               |
 
+#### Bash Scripting (.sh files)
+On the server, the `.sh` file extension is unnecessary, but if you want to run the script on Windows, you need the `.sh`. To run your script on the server, use `./yourfile.sh`. If this fails, give the script executable permission with `chmod +x ./yourfile.sh`.
+
+##### Custom Aliases
+If you want to, for example, run a script without having to type in `./yourfile.sh` every time, you can create an alias. To do this, use a text editor (nano, vim)
+
 ### Server Management
 Most server management actions require sudo or a root account.
 
@@ -52,13 +58,13 @@ Most server management actions require sudo or a root account.
 There are a few ways to do this, one easy way being Keryx.
 Follow these links for more information on this:
 
-[apt - installing packages from usb to ubuntu server 14.04 - Ask Ubuntu](https://askubuntu.com/questions/711890/installing-packages-from-usb-to-ubuntu-server-14-04) 
+[apt - installing packages from usb to ubuntu server 14.04 - Ask Ubuntu](https://askubuntu.com/questions/711890/installing-packages-from-usb-to-ubuntu-server-14-04)
 
 [How can I install software or packages without Internet (offline)? - Ask Ubuntu](https://askubuntu.com/questions/974/how-can-i-install-software-or-packages-without-internet-offline)
 
 https://launchpad.net/keryxproject  
 
-[apt - How to obtain installed package files? - Ask Ubuntu](https://askubuntu.com/questions/86358/how-to-obtain-installed-package-files) 
+[apt - How to obtain installed package files? - Ask Ubuntu](https://askubuntu.com/questions/86358/how-to-obtain-installed-package-files)
 
 https://packages.ubuntu.com/bionic  
 
@@ -78,4 +84,3 @@ The Arch Linux laptops will automatically prompt for your server username on sta
 If more laptops get Ubuntu Desktop in the future, the installation DvD is in a makeshift envelope labled *Ubuntu DvD*. This only works on EFI enabled systems.
 
 When Ubuntu Desktop is installed, run the command `systemctl set-default multi-user.target` to disable GDM (Gnome Display Manager) on boot. This will force the system to boot into terminal.
-
