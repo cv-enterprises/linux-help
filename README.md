@@ -1,11 +1,13 @@
-This repo contains all of the relevant files on the `lyron server`. Any cool or useful scripts and programs should be hosted here.
+# Table of Contents
 
-<!--| Table of Contents |  |
-|-|-|
-| Bold | Value1 |
-| Normal Key | Value2 |-->
+| Title                  | Description                                   |
+|------------------------|-----------------------------------------------|
+| **[Server Help][1]**   | Getting started with the server + basic usage |
+| **[Just for fun][2]**  | Screen savers, random scripts, etc            |
+| **[Tools][3]**         | Useful scripts, tools, and programs           |
+| **[Misc][4]**          | Uncategorized files                           |
 
-
-## [Server Help](/docs)
-
-Help files below are located in [/docs]() and at [cventerprises.org/server/]()
+[1]: /help
+[2]: /fun
+[3]: /tools
+[4]: /misc
