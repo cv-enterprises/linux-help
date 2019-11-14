@@ -1,9 +1,8 @@
-# plugins:
-  # - jekyll-relative-links
-# relative_links:
-  # enabled: true
-  # collections: true
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
 include:
   - README.md
   - GettingStarted.md
-collections: true
