@@ -7,10 +7,12 @@
 | **[Misc][3]**          | Uncategorized files                           |
 
 
-## [Server Help][4] - Getting started with the server + basic usage
+# [Server Help][4]
+
+Getting started with the server + basic usage
 
 
 [1]: /fun
 [2]: /tools
 [3]: /misc
-[4]: ../../tree/gh-pages
+[4]: ../../tree/gh-pages/help
