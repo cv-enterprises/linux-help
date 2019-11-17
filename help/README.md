@@ -12,15 +12,3 @@
 [nano]: /help/Text%20Editors/nano.md#nano
 [vocab]: /help/vocab.md
 
-
-## other topic that should be online
-
-| Title                              | Description                 |
-|------------------------------------|-----------------------------|
-| [topic][1] | desc |
-| [topic][2] | desc |
-| [topic][3] | desc |
-
-[1]: #
-[2]: #
-[3]: #
