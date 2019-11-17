@@ -12,7 +12,7 @@
 [nano]: /server/help/Text%20Editors/nano#nano
 [vocab]: /server/help/vocab
 
-
+<!--
 ## other topic that should be online
 
 | Title                              | Description                 |
@@ -24,7 +24,7 @@
 [link]: 
 [link]: 
 [link]: 
-
+-->
 
 
 
