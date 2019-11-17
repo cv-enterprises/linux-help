@@ -3,13 +3,14 @@
 | Title                              | Description                 |
 |------------------------------------|-----------------------------|
 | [Getting Started][getting-started] | a quick guide for beginners |
+| [Vocabulary][vocab]                | common terms and definitions|
 | [Vim][vim]                         | a novice guide to Vim       |
 | [Nano][nano]                       | a novice intro to nano      |
 
 [getting-started]: /server/help/GettingStarted#getting-started-with-the-server
-[vim]: /server/help/Text%20Editors/Vim#vim
-[nano]: /server/help/Text%20Editors/nano#nano
-
+[vim]: /help/Text%20Editors/Vim#vim
+[nano]: /help/Text%20Editors/nano#nano
+[vocab]: /help/vocab.md
 
 
 ## other topic that should be online
