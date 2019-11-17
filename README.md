@@ -13,4 +13,4 @@
 [1]: /fun
 [2]: /tools
 [3]: /misc
-[4]: ../gh-pages
+[4]: ../../gh-pages
