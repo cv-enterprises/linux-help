@@ -8,8 +8,8 @@
 | [Nano][nano]                       | a novice intro to nano      |
 
 [getting-started]: /server/help/GettingStarted#getting-started-with-the-server
-[vim]: /help/Text%20Editors/Vim#vim
-[nano]: /help/Text%20Editors/nano#nano
+[vim]: /help/Text%20Editors/Vim.md#vim
+[nano]: /help/Text%20Editors/nano.md#nano
 [vocab]: /help/vocab.md
 
 
