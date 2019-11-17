@@ -6,8 +6,11 @@
 | **[Tools][2]**         | Useful scripts, tools, and programs           |
 | **[Misc][3]**          | Uncategorized files                           |
 
+
+## [Server Help][4] - Getting started with the server + basic usage
+
+
 [1]: /fun
 [2]: /tools
 [3]: /misc
-
-<!-- | **[Server Help][1]**   | Getting started with the server + basic usage | -->
+[4]: ../gh-pages
